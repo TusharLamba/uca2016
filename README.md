@@ -1,4 +1,4 @@
-# uca2016-17 hello world!  (changes by tushar)
+# uca2016-17 hello world!  changes by tushar
 1. Install Node
 
 	a. $sudo apt-get install nodejs
